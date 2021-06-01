@@ -24,6 +24,7 @@ $ git clone https://github.com/assembler-school/github-projects-demo.git
 ## Resources
 
 - [Assembler School Conventional Commits Reference](https://www.notion.so/Conventional-Commits-Reference-30b7b2151a3b45ff8f394d04c50e8496)
+- [Assembler School Code Review Best Practices Guidelines](https://www.notion.so/Code-Review-and-Evaluation-Guide-d2229f3611754219b88e46b35a6228ff)
 
 ## License
 
