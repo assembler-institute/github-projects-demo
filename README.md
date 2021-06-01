@@ -21,6 +21,8 @@ account:
 $ git clone https://github.com/assembler-school/github-projects-demo.git
 ```
 
+This will get you a copy of the repository so that you can try out working with Github Projects.
+
 ## Resources
 
 - [Assembler School Conventional Commits Reference](https://www.notion.so/Conventional-Commits-Reference-30b7b2151a3b45ff8f394d04c50e8496)
