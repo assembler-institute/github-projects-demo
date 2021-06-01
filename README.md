@@ -23,8 +23,7 @@ $ git clone https://github.com/assembler-school/github-projects-demo.git
 
 ## Resources
 
-- [react-testing-library](https://testing-library.com/docs/react-testing-library/intro/)
-- [reactjs.org](https://reactjs.org/)
+- [Assembler School Conventional Commits Reference](https://www.notion.so/Conventional-Commits-Reference-30b7b2151a3b45ff8f394d04c50e8496)
 
 ## License
 
